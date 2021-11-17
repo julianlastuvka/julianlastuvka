@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 ## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
 
 -😄 Realicé el curso CS50 de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
+
 -🌱 Actualmente realizando el curso CS50 Web programming with Javascript y Python.
+
 -⚡ Con muchas ganas de crecer! En búsqueda de mi primer empleo como desarrollador web.
 
 ### 📫 Contacto
 - [linkedin]
+- 
 - julian.lastuvka@gmail.com
 
 ### Lenguajes y tecnologías
