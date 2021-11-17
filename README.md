@@ -34,9 +34,9 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 
 <img align="left" alt="Python" width="85px" src="/static/Python-Symbol.png" />
 <img align="left" alt="Django" width="85px" src="/static/Django_logo_PNG1.png" />
-<img align="left" alt="Flask" width="85px" src="/static/flask.svg" />
-<img align="left" alt="JS" width="85px" src="/static/1024px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="C" width="85px" src="/static/C.png" />
+<img align="left" alt="Flask" width="40px" src="/static/flask.svg" />
+<img align="left" alt="JS" width="45px" src="/static/1024px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="C" width="45px" src="/static/C.png" />
 <img align="left" alt="html_css" width="85px" src="/static/pngwing.com.png" />
 <img align="left" alt="sql" width="85px" src="/static/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ee92a46.0488681015273524309551.png" />
 
