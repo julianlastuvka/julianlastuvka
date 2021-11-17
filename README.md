@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
 
+
 -:student: Realicé el curso 'CS50' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
 Además, aprobé las materias Algoritmos y Programación I y II. 
 
@@ -32,7 +33,7 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 
 ### Lenguajes y tecnologías
 
-<img align="left" alt="Python" width="90px" src="/static/Python-Symbol.png" />
+<img align="left" alt="Python" width="70px" src="/static/Python-Symbol.png" />
 <img align="left" alt="Django" width="85px" src="/static/Django_logo_PNG1.png" />
 <img align="left" alt="Flask" width="40px" src="/static/flask.svg" />
 <img align="left" alt="JS" width="50px" src="/static/1024px-Unofficial_JavaScript_logo_2.svg.png" />
