@@ -28,11 +28,10 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 
 ### 📫 Contacto
 - [LinkedIn]
-- 
 - julian.lastuvka@gmail.com
 
 ### Lenguajes y tecnologías
 
-[<img align="left" alt="Python" width="26px" src="/static/Python-Symbol.png">][Python]
+<img align="left" alt="Python" width="36px" src="/static/Python-Symbol.png" /> [Python]
 
 [linkedin]: https://www.linkedin.com/in/julian-lastuvka/
