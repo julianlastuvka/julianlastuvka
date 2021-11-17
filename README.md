@@ -39,7 +39,7 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 <img align="left" alt="JS" width="57px" src="/static/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="C" width="58px" src="/static/C.png" />
 <img align="left" alt="html_css" width="93px" src="/static/pngwing.com.png" />
-<img align="left" alt="sql" width="105px" style="margin-top:2px" src="/static/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ee92a46.0488681015273524309551.png" />
+<img align="left" alt="sql" width="105px" src="/static/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ee92a46.0488681015273524309551.png" />
 
 
 
