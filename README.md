@@ -27,7 +27,7 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 -⚡ Con muchas ganas de crecer! En búsqueda de mi primer empleo como desarrollador web.
 
 ### 📫 Contacto
-- [linkedin]
+- [LinkedIn]
 - 
 - julian.lastuvka@gmail.com
 
