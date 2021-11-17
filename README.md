@@ -33,6 +33,6 @@ Además, aprobé las materias Algoritmos y Programación I y II.
 
 ### Lenguajes y tecnologías
 
-[Python]
+[<img align="left" alt="Python" width="26px" src="/static/Python-Symbol.png">][Python]
 
 [linkedin]: https://www.linkedin.com/in/julian-lastuvka/
