@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 ## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
 
--😄 Realicé el curso CS50 de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
+-:student: Realicé el curso 'CS50' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
+Además aprobé las materias Algoritmos y programación I y II. Terminando la cursada de Algoritmos y programacion III.
 
--🌱 Actualmente realizando el curso CS50 Web programming with Javascript y Python.
+-🌱 Actualmente realizando el curso 'CS50 Web programming with Javascript and Python'.
 
 -⚡ Con muchas ganas de crecer! En búsqueda de mi primer empleo como desarrollador web.
 
