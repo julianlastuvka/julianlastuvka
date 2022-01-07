@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 -:student: Realicé el curso 'CS50' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
-Además, aprobé las materias Algoritmos y Programación I, II y III. 
+Además, aprobé las materias Algoritmos y Programación I, II y III. En las que aprendí Python, C y Smalltalk.
 
 -🌱 Actualmente me encuentro realizando el curso 'CS50 Web programming with Javascript and Python'.
 
