@@ -25,7 +25,6 @@ Además, aprobé las materias Algoritmos y Programación I, II y III. En las que
 
 -🌱 Actualmente me encuentro realizando el curso 'CS50 Web programming with Javascript and Python'.
 
--⚡ Con muchas ganas de seguir aprendiendo en proyectos reales. En búsqueda de mi primer empleo como desarrollador web.
 
 ### 📫 Contacto
 - [LinkedIn]
