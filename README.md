@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola, mi nombre es Julián y tengo 22 años 👋
+### Hola, mi nombre es Julián y tengo 24 años 👋
 
 ## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
 
 
--:student: Realicé el curso 'CS50' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
+-🌱 Actualmente me encuentro trabajando como Ingeniero de Software en Santander Tecnologia Argentina.
+
+-:student: Realicé el curso 'CS50' y 'CS50 Web programming with Javascript and Python' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
 Además, aprobé las materias Algoritmos y Programación I, II y III. En las que aprendí Python, C y Smalltalk.
 
--🌱 Actualmente me encuentro realizando el curso 'CS50 Web programming with Javascript and Python'.
+
 
 
 ### 📫 Contacto
