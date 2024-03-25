@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola, mi nombre es Julián y tengo 24 años 👋
+### Hi, my name is Julián Lastuvka 👋
 
-## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
+## I'm a Software Engineer
 
 
 -🔭 Currently, I am working as a Software Engineer at Santander Tecnologia Argentina.
