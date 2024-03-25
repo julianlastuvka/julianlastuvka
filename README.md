@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 ## Soy estudiante de Licenciatura en Análisis de Sistemas en la FIUBA
 
 
--🌱 Actualmente me encuentro trabajando como Ingeniero de Software en Santander Tecnologia Argentina.
+-🌱 Currently, I am working as a Software Engineer at Santander Tecnologia Argentina.
 
--:student: Realicé el curso 'CS50' y 'CS50 Web programming with Javascript and Python' de HarvardX en el cual aprendí las bases de desarrollo web fullstack utilizando Flask en el back-end.
-Además, aprobé las materias Algoritmos y Programación I, II y III. En las que aprendí Python, C y Smalltalk.
+-:student:  I completed the 'CS50' and 'CS50 Web programming with Javascript and Python' courses from HarvardX, where I learned the basics of full-stack web development using Flask for the back-end. Additionally, I passed the courses Algorithms and Programming I, II, and III, where I learned Python, C, and Smalltalk.
 
 
 
