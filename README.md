@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ## I'm a Software Engineer
 
 
--🔭 Currently, I am working as a Software Engineer at Santander Tecnologia Argentina.
-
--🌱 I completed the 'CS50' and 'CS50 Web programming with Javascript and Python' courses from HarvardX, where I learned the basics of full-stack web development using Flask for the back-end. Additionally, I passed the courses Algorithms and Programming I, II, and III, where I learned Python, C, and Smalltalk.
-
-
+-🔭 Currently, I am working as a Software Engineer at Santander Bank.
 
 
 ### 📫 Contacto
